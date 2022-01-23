@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">covid-19</string>
+    <string name="todo">TODO</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="textview">TextView</string>
+
+
+    <string-array name="country"/>
+        <item name="USA" type="string"/>
+        <item name="EGY" type="string"/>
+        <item name="China" type="string"/>
+        <item name="UK" type="string"/>
+
+</resources>
